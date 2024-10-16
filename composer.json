@@ -2,6 +2,15 @@
     "name": "exbil/vpnresellers-php-api",
     "description": "A full-featured implementation of the VPNResellers API Client",
     "type": "library",
+    "keywords": [
+        "php-api-client",
+        "vpnresellers-api",
+        "vpnresellers",
+        "api-client",
+        "rest",
+        "php",
+        "api"
+    ],
     "license": "GPL-3.0-or-later",
     "authors": [
         {
