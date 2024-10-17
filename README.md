@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/stable-v.1.0-informational?style=flat&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/license-MIT-informational?style=flat&logoColor=white&color=6aa6f8)
 
-[![Latest Stable Version](http://poser.pugx.org/exbil/vpnresellers-php-api/v)](https://packagist.org/packages/exbil/vpnresellers-php-api) [![Total Downloads](http://poser.pugx.org/exbil/vpnresellers-php-api/downloads)](https://packagist.org/packages/exbil/vpnresellers-php-api) [![Latest Unstable Version](http://poser.pugx.org/exbil/vpnresellers-php-api/v/unstable)](https://packagist.org/packages/exbil/vpnresellers-php-api) [![License](http://poser.pugx.org/exbil/vpnresellers-php-api/license)](https://packagist.org/packages/vexura/vpnresellers-api) [![PHP Version Require](http://poser.pugx.org/exbil/vpnresellers-php-api/require/php)](https://packagist.org/packages/exbil/vpnresellers-php-api)
+### This GitHub Repo was Developed by Julien Michell Herwig (Vexura) [Orginal Rep](https://github.com/Vexura/vpnresellers-api/)
 
 # Getting Started
 ### Requirements
