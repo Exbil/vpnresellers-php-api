@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/stable-v.1.0-informational?style=flat&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/license-MIT-informational?style=flat&logoColor=white&color=6aa6f8)
 
-### This GitHub Repo was Developed by Julien Michell Herwig (Vexura) [Orginal Rep](https://github.com/Vexura/vpnresellers-api/)
+### This GitHub Repo was Developed by Julien Michell Herwig (Vexura) [Orginal Files](https://github.com/Vexura/vpnresellers-api/)
 
 # Getting Started
 ### Requirements
